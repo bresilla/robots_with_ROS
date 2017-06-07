@@ -14,9 +14,12 @@ set(CMAKE_MAKEFILE_DEPENDS
   "catkin_generated/installspace/_setup_util.py"
   "catkin_generated/order_packages.cmake"
   "publisher/catkin_generated/package.cmake"
+  "subscriber/catkin_generated/package.cmake"
   "/home/trim/CODE/ROBO/part_2/robots_with_ROS/src/CMakeLists.txt"
   "/home/trim/CODE/ROBO/part_2/robots_with_ROS/src/publisher/CMakeLists.txt"
   "/home/trim/CODE/ROBO/part_2/robots_with_ROS/src/publisher/package.xml"
+  "/home/trim/CODE/ROBO/part_2/robots_with_ROS/src/subscriber/CMakeLists.txt"
+  "/home/trim/CODE/ROBO/part_2/robots_with_ROS/src/subscriber/package.xml"
   "/opt/ros/kinetic/share/catkin/cmake/../package.xml"
   "/opt/ros/kinetic/share/catkin/cmake/all.cmake"
   "/opt/ros/kinetic/share/catkin/cmake/assert.cmake"
@@ -122,6 +125,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "gtest/CMakeFiles/CMakeDirectoryInformation.cmake"
   "publisher/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "subscriber/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:

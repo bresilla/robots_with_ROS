@@ -27,3 +27,10 @@
 /home/trim/CODE/ROBO/part_2/robots_with_ROS/build/publisher/CMakeFiles/install/local.dir
 /home/trim/CODE/ROBO/part_2/robots_with_ROS/build/publisher/CMakeFiles/install/strip.dir
 /home/trim/CODE/ROBO/part_2/robots_with_ROS/build/publisher/CMakeFiles/test.dir
+/home/trim/CODE/ROBO/part_2/robots_with_ROS/build/subscriber/CMakeFiles/list_install_components.dir
+/home/trim/CODE/ROBO/part_2/robots_with_ROS/build/subscriber/CMakeFiles/install.dir
+/home/trim/CODE/ROBO/part_2/robots_with_ROS/build/subscriber/CMakeFiles/rebuild_cache.dir
+/home/trim/CODE/ROBO/part_2/robots_with_ROS/build/subscriber/CMakeFiles/install/strip.dir
+/home/trim/CODE/ROBO/part_2/robots_with_ROS/build/subscriber/CMakeFiles/install/local.dir
+/home/trim/CODE/ROBO/part_2/robots_with_ROS/build/subscriber/CMakeFiles/test.dir
+/home/trim/CODE/ROBO/part_2/robots_with_ROS/build/subscriber/CMakeFiles/edit_cache.dir

@@ -283,6 +283,12 @@ publisher_BINARY_DIR:STATIC=/home/trim/CODE/ROBO/part_2/robots_with_ROS/build/pu
 //Value Computed by CMake
 publisher_SOURCE_DIR:STATIC=/home/trim/CODE/ROBO/part_2/robots_with_ROS/src/publisher
 
+//Value Computed by CMake
+subscriber_BINARY_DIR:STATIC=/home/trim/CODE/ROBO/part_2/robots_with_ROS/build/subscriber
+
+//Value Computed by CMake
+subscriber_SOURCE_DIR:STATIC=/home/trim/CODE/ROBO/part_2/robots_with_ROS/src/subscriber
+
 
 ########################
 # INTERNAL cache entries
@@ -385,7 +391,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=3
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=4
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

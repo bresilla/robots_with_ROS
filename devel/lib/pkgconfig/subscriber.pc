@@ -1,0 +1,8 @@
+prefix=/home/trim/CODE/ROBO/part_2/robots_with_ROS/devel
+
+Name: subscriber
+Description: Description of subscriber
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/trim/CODE/ROBO/part_2/robots_with_ROS/devel/lib 
+Requires: 
